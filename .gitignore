@@ -1,0 +1,7 @@
+# .gitignore 文件内容
+.idea/
+*.iml
+__pycache__/
+*.pyc
+venv/
+.env
